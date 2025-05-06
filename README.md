@@ -1,5 +1,5 @@
 # INST346-Project
 
-***PURLEY FOR LEARNONG PURPOSES***
+***PURELY FOR LEARNING PURPOSES***
 
-This site is a copy of umd's authentication page when trying to log into testudo
+
